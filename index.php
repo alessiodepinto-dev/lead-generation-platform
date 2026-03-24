@@ -13,8 +13,8 @@ $config = [
     'admin_user' => 'admin',
     'admin_password' => 'leadflow123',
     'webhook_url' => '',
-    'telegram_bot_token' => '8528085296:AAGzDX0IlOjCdfubChiQxMKSklcKaZtQItA',
-    'telegram_chat_id' => '889781821',
+    'telegram_bot_token' => '[token]',
+    'telegram_chat_id' => '[chat_id]',
 ];
 
 function ensure_db(array $config): PDO {
