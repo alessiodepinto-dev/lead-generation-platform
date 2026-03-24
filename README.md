@@ -24,3 +24,8 @@ This project demonstrates a full-stack solution combining frontend, backend, and
 <img width="1919" height="909" alt="login" src="https://github.com/user-attachments/assets/646b7a81-7992-47a9-bf00-3316459fff10" />
 <img width="1393" height="912" alt="telegram bot" src="https://github.com/user-attachments/assets/8e6954e8-fc74-44e9-a3d4-b5e2c0e08b5e" />
 
+
+
+## Author
+Developed by Alessio – Full Stack Web Developer specialized in custom web applications and automation systems.
+
